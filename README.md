@@ -4,8 +4,8 @@
 Project ini dibuat untuk Assignment mata kuliah Pattern Software Design 
 Website untuk e-commerce dengan fitur sebagai berikut:
 1.Guest
-  ..- Register
-  ..- Login (Data - data user disimpan menggunakan session)
+  * Register
+  * Login (Data - data user disimpan menggunakan session)
   ..- View Product
 2.Member
    ..- View Product
