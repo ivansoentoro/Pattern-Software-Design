@@ -3,15 +3,15 @@
 TokoBeDia
 Project ini dibuat untuk Assignment mata kuliah Pattern Software Design 
 Website untuk e-commerce dengan fitur sebagai berikut:
-Guest
+1.Guest
 - Register
 - Login (Data - data user disimpan menggunakan session)
 - View Product
-Member
+2.Member
 - View Product
 - Profile
 - Change Password
-Administrator
+3.Administrator
 - View User
 - View Product
 - Insert Product
